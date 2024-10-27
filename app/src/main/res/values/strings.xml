@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">tareas</string>
+        <string-array name="filter_options">
+            <item>Todas</item>
+            <item>Completadas</item>
+            <item>No Completadas</item>
+        </string-array>
+    </resources>
